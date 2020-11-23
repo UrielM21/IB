@@ -1,0 +1,36 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "Visualization_MobileNetV2",
+            "tensorShape": [
+                876,
+                1280
+            ],
+            "tensorPath": "https://raw.githubusercontent.com/UrielM21/IB/main/test_MobileNetV2_embeddings.bytes",
+            "metadataPath": "https://raw.githubusercontent.com/UrielM21/IB/main/test_MobileNetV2_meta.tsv",
+            "sprite": {
+                "imagePath": "https://raw.githubusercontent.com/UrielM21/IB/main/test_MobileNetV2_sprite.png",
+                "singleImageDim": [
+                    64,
+                    64
+                ]
+            }
+        },
+        {
+            "tensorName": "Visualization_ResNet50V2",
+            "tensorShape": [
+                876,
+                2048
+            ],
+            "tensorPath": "https://raw.githubusercontent.com/UrielM21/IB/main/test_ResNet50V2_embeddings.bytes",
+            "metadataPath": "https://raw.githubusercontent.com/UrielM21/IB/main/test_ResNet50V2_meta.tsv",
+            "sprite": {
+                "imagePath": "https://raw.githubusercontent.com/UrielM21/IB/main/test_ResNet50V2_sprite.png",
+                "singleImageDim": [
+                    64,
+                    64
+                ]
+            }
+        }
+    ]
+}
