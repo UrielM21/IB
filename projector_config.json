@@ -44,6 +44,22 @@
                     28
                 ]
             }
+        },
+        {
+            "tensorName": "Visualization_Fashion_MNIST",
+            "tensorShape": [
+                10000,
+                256
+            ],
+            "tensorPath": "https://raw.githubusercontent.com/UrielM21/IB/main/Fashion_MNIST_embeddings.bytes",
+            "metadataPath": "https://raw.githubusercontent.com/UrielM21/IB/main/Fashion_MNIST_meta.tsv",
+            "sprite": {
+                "imagePath": "https://raw.githubusercontent.com/UrielM21/IB/main/Fashion_MNIST_sprite.png",
+                "singleImageDim": [
+                    64,
+                    64
+                ]
+            }
         }
     ]
 }
